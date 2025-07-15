@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://img.shields.io/github/stars/ahmedfarahat990/Heart-Disease-Classifier?style=social" alt="GitHub stars">
   <img src="https://img.shields.io/github/license/ahmedfarahat990/Heart-Disease-Classifier" alt="License">
@@ -139,16 +138,25 @@ Every model is rigorously evaluated with:
 
 ## 📜 License
 
-MIT License — Open for collaboration, research, and innovation!
+> **MIT License** — Open for collaboration, research, and innovation!  
+> Feel free to fork, contribute, and build upon this project.  
+> *Together, we can make a difference in healthcare!*
 
 ---
 
 ## 🔗 Connect & Contribute
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-farahat-104077286/)
-- 📧 ahmedfrahat524@gmail.com
-- 📁 More projects on [GitHub](https://github.com/ahmedfarahat990)
+🌟 **Let's build something amazing together!**
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-farahat-104077286/) — Connect for professional networking
+- 📧 ahmedfrahat524@gmail.com — Reach out for questions or collaboration
+- 🛠️ [GitHub Projects](https://github.com/ahmedfarahat990) — Explore more innovative solutions
 
 ---
 
-**If you find this project valuable, please star ⭐ and share! Your support helps save lives.**
+<p align="center">
+  <b>If you find this project valuable, please star ⭐ and share!</b><br>
+  <i>Your support helps save lives and inspires future innovation.</i>
+  <br><br>
+  <img src="https://img.shields.io/github/stars/ahmedfarahat990/Heart-Disease-Classifier?style=social" alt="GitHub stars">
+</p>
