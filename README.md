@@ -99,7 +99,7 @@ pip install -r requirements.txt
 jupyter notebook notebook/Heart_Disease_Prediction.ipynb
 ```
 
-> Or open it in [Google Colab](https://colab.research.google.com/)
+> Or open it in [Google Colab](https://colab.research.google.com/drive/1IF-HLLhJ89wPzC7-_FNUA9mDdFAYMWkx?usp=sharing)
 
 ---
 
@@ -107,9 +107,9 @@ jupyter notebook notebook/Heart_Disease_Prediction.ipynb
 
 | Model               | Accuracy (val set) | Train Loss | Val Loss |
 |--------------------|--------------------|------------|----------|
-| Logistic Regression| ✅ ~88.4%           | 0.XXX      | 0.XXX    |
-| Neural Network     | ✅ ~88.4%           | 0.XXX      | 0.XXX    |
-| XGBoost            | ✅ ~92.4%           | –          | –        |
+| Logistic Regression| ✅ ~88.4%           | 0.1307      | 0.1195    |
+| Neural Network     | ✅ ~89.3%           | 0.1015      | 0.1086    |
+| XGBoost            | ✅ ~91.3%           | 0.0736        | 0.0870       |
 
 
 
