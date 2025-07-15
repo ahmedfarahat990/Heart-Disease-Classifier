@@ -1,5 +1,6 @@
 
-# 🫀 Heart Disease Classifier
+## ❤️ Heart Disease Classifier
+
 
 A machine learning project to predict the presence of heart disease using clinical patient data. This project explores and compares three powerful models:
 
@@ -146,7 +147,7 @@ Feel free to fork and build upon it.
 
 ## 🔗 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/ahmed-farahat-104077286/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-farahat-104077286/)
 - 📧 ahmedfrahat524@gmail.com
 - 📁 Check my other projects on [GitHub](https://github.com/ahmedfarahat990)
 
